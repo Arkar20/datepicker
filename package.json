@@ -1,11 +1,11 @@
 {
-  "name": "new",
+  "name": "booking-calendar-react",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "16.8.6",
+    "react": "18.0.0-rc.3",
     "react-advanced-datetimerange-picker": "1.0.10",
     "react-date-range": "0.9.4",
     "react-datetime": "2.16.3",
